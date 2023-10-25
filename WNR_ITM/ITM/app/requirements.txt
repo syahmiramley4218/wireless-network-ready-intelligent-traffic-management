@@ -26,5 +26,5 @@ scikit-build==0.12.0
 setuptools==65.5.1
 six==1.16.0
 urllib3==1.26.5
-Werkzeug==2.2.3
+Werkzeug==3.0.1
 wheel==0.38.1
